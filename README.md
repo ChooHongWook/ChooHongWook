@@ -7,9 +7,7 @@
 |정보|내용|
 |------|---|
 |E-mail.|**olt13mm@gmail.com**|
-|Github.|[**https://github.com/ChooHongWook**](https://github.com/ChooHongWook)|
-|Blog.|[**https://olt13mm.tistory.com/**](https://olt13mm.tistory.com/)|
-|Before Blog.|[**https://blog.naver.com/olt13mm**](https://blog.naver.com/olt13mm)|
+|Blog.|[**https://olt13mm.tistory.com/**](https://olt13mm.tistory.com/)<br/>[**https://blog.naver.com/olt13mm**](https://blog.naver.com/olt13mm)|
 
 <br/>
 
