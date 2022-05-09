@@ -42,7 +42,7 @@ RESTful API 구조와 RDBMS 설계에 관심이 많은 백엔드 개발자 입�
 
 *운동인을 위한 운동 기록 공유 기록 커뮤니티 사이트*
 
-**[Stack]:  TypeScript, Node.js, Express, Mysql, TypeORM, React, Styled-Component**
+**[Stack]**:  TypeScript, Node.js, Express, Mysql, TypeORM, React, Styled-Component**
 
 [Server]
 - DB 스키마 구성 및 API 문서 작성
