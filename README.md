@@ -25,31 +25,14 @@
 <br/>
 
 ## About Me
-NodeJS, ExpressJS 중심으로 sequelize, typeORM을 사용한  **Rest** **API 개발 경험**이 있습니다. 사람들과 소통하는 것을 좋아하고 항상 무엇이 더 좋을지, 또는 **효율**적인지를 생각하는 것을 좋아합니다. 그래서 근의공식(MuscleFormula) 프로젝트를 진행할 때도 Axios를 사용하는 함수를 하나의 파일에 담아서 관리를 하여서 **코드의 가독성을 높였습니다**. 그리고 Main page에서 모든 Post의 모든 정보를 보내주어서 페이지를 만드는 방식에서 자세한 정보와 필수적인 정보를 나누어서 필요할 때마다 필요한 정보들을 요청하는 방식으로 바꾸어서 **정보전송시간을 줄였습니다.**
-
-현재는 수료 이후엔 조금 더 개발을 잘하기 위하여 팀을 꾸려서 **사이트 프로젝트를 진행 중**입니다. 
+Node.js Express 프레임워크 기반 웹 서버 개발과 AWS를 이용한 배포가 가능하며,
+RESTful API 구조와 RDBMS 설계에 관심이 많은 백엔드 개발자 입니다.
+현재는 수료 이후엔 조금 더 개발을 잘하기 위하여 **그룹스터디를 진행 중**입니다. 
 
 <br/>
 
 ## Projects
 
-### 새친구여행(****BirdBuddyTrip****)
-
-2022.04 - 현재 진행 중
-
-team : JuniorSparrow (3인)
-
-*같이 여행 갈 사람을 모집하는 사이트*
-
-**[Stack]: TypeScript, Node.js, Express, Mysql, Sequelize**
-
-[Server]
-- DB 스키마 구성 및 API 문서 작성
-- Sequelize을 이용하여 model 구성
-- ~ 진행 중
-
-📎**Link**
-- GitHub : [https://github.com/sideProject-withU/BirdBuddyTrip](https://github.com/sideProject-withU/BirdBuddyTrip)
 
 ### 근의공식(MuscleFormula)
 
