@@ -42,43 +42,21 @@ RESTful API 구조와 RDBMS 설계에 관심이 많은 백엔드 개발자 입�
 
 *운동인을 위한 운동 기록 공유 기록 커뮤니티 사이트*
 
-**[Stack]**:  TypeScript, Node.js, Express, Mysql, TypeORM, React, Styled-Component**
+**[Stack]:  TypeScript, Node.js, Express, Mysql, TypeORM, React, Styled-Component**
 
-[Server]
-- DB 스키마 구성 및 API 문서 작성
-- typeORM을 이용하여 entity 구성
-- Post, User, Comment CRUD 엔드포인트 작성
+[배포](https://www.muscleformula.xyz/) / [GitHub](https://github.com/codestates/MuscleFormula) / [회고](https://olt13mm.tistory.com/1183) 
 
-[Client]
-- 이미지 업로드 구현
-- Detail page 기능 및 디자인
-- Editor page 기능 및 유효성, 디자인
 
-📎**Link**
-- 배포 :  [https://www.muscleformula.xyz/](https://www.muscleformula.xyz/)
-- GitHub : [https://github.com/codestates/MuscleFormula](https://github.com/codestates/MuscleFormula)
-- 회고 : [https://olt13mm.tistory.com/1183](https://olt13mm.tistory.com/1183)
-
-### 뮤직플라워(Music-Flower)
 
 ![image](https://user-images.githubusercontent.com/90957389/167373653-bf45859f-f793-49ad-bf79-bb4da5f80680.png)
+
+### 뮤직플라워(Music-Flower)
 
 2022.02 - 2022.03 (2주)
 
 음악을 좋아하는 사람들을 위한 음악 공유 커뮤니티 사이트
 
-**[Stack] JavaScript, React, Styled-Component**
-
-[Client]
-- 메인페이지 검색 기능
-- 노래 검색 기능
-- 포스트 수정 기능
-- 각 페이지 디자인
-
-📎**Link**
-- 배포 :  [https://bit.ly/37aNZ7I](https://bit.ly/37aNZ7I)
-- GitHub : [https://github.com/codestates/MuscleFormula](https://github.com/codestates/Music-Flower)
-- 회고 : [https://olt13mm.tistory.com/1041](https://olt13mm.tistory.com/1041)
+[배포](https://bit.ly/37aNZ7I) / [GitHub](https://github.com/codestates/Music-Flower) / [회고](https://olt13mm.tistory.com/1041) 
 
 <br/>
 
