@@ -2,14 +2,10 @@
 
 # 매일 공부하는 신입개발자 “추홍욱”입니다
 
-<img src="https://user-images.githubusercontent.com/90957389/165478643-d2706fc5-89a7-4b5e-bfb7-292e8b1400e4.jpeg" width="auto" height="300"/>
-
-<br/>
 
 ## Info
 |정보|내용|
 |------|---|
-|Phone.|**010-5742-3196**|
 |E-mail.|**olt13mm@gmail.com**|
 |Github.|[**https://github.com/ChooHongWook**](https://github.com/ChooHongWook)|
 |Blog.|[**https://olt13mm.tistory.com/**](https://olt13mm.tistory.com/)|
@@ -24,6 +20,7 @@
 |Framework & Library.|**NodeJS, Express, React, Redux**|
 |DB & Server.|**MySQL, TypeORM, Sequelize, MongoDB**|
 |Others.|**Git,  Postman, Notion, AWS(EC2, RDS, S3)**|
+
 
 <br/>
 
