@@ -45,6 +45,8 @@ NodeJS, ExpressJS 중심으로 Rest API 개발 가능합니다.  <br/>
 
 ### 근의공식(MuscleFormula)
 
+2022.03 - 2022.04 (2주)
+
 *운동인을 위한 운동 기록 공유 기록 커뮤니티 사이트*
 
 **[Stack]:  TypeScript, Node.js, Express, Mysql, TypeORM, React, Styled-Component**
