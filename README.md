@@ -26,11 +26,16 @@
 <br/>
 
 ## About Me
-Node.js Express 프레임워크 기반 웹 서버 개발과 AWS를 이용한 배포가 가능하며,
-RESTful API 구조와 RDBMS 설계에 관심이 많은 백엔드 개발자 입니다.
-현재는 수료 이후엔 조금 더 개발을 잘하기 위하여 **그룹스터디를 진행 중**입니다. 
+항상 무엇이 더 좋을지, 또는 효율적인지를 생각하는 것을 좋아합니다. 
+React기반의 유저 친화적인 Client개발이 가능합니다.
+NodeJS, ExpressJS 중심으로 Rest API 개발 가능합니다. 
 
 <br/>
+
+## Career
+|기간|내용|
+|-|-|
+2022.06 ~ 2022.08 | 이큐브랩(Ecube Labs)
 
 ## Projects
 
