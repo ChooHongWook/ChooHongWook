@@ -1,18 +1,19 @@
-
-
-# 매일 공부하는 신입개발자 “추홍욱”입니다
-
+# 개발을 즐기는 주니어개발자 “추홍욱”입니다
 
 ## Info
-|정보|내용|
-|------|---|
-|E-mail.|**olt13mm@gmail.com**|
-|Blog.|[**https://olt13mm.tistory.com/**](https://olt13mm.tistory.com/)<br/>[**https://blog.naver.com/olt13mm**](https://blog.naver.com/olt13mm)|
+
+| 정보    | 내용                                                                                                                                      |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| E-mail. | **olt13mm@gmail.com**                                                                                                                     |
+| Blog.   | [**https://olt13mm.tistory.com/**](https://olt13mm.tistory.com/)<br/>[**https://blog.naver.com/olt13mm**](https://blog.naver.com/olt13mm) |
 
 <br/>
 
 ## Stacks
+
 <div align=middle> 
+  
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -22,22 +23,27 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
-
 
 <br/>
 
 ## About Me
-항상 무엇이 더 좋을지, 또는 효율적인지를 생각하는 것을 좋아합니다. <br/>
-React기반의 유저 친화적인 Client개발이 가능합니다. <br/>
-NodeJS, ExpressJS 중심으로 Rest API 개발 가능합니다.  <br/>
+
+개발을 즐기며 무엇이 더 좋을지, 또는 효율적인지를 생각하는 것을 좋아합니다.  
+Next.js를 기반으로 웹 개발에 능숙합니다.  
+React기반의 유저 친화적인 Client개발이 가능합니다.  
+NodeJS, ExpressJS 중심으로 RESTful API 개발 가능합니다.  
+Python을 사용하여 데이터 처리 및 업무 자동화가 가능합니다.  
 
 <br/>
 
 ## Career
-|기간|내용|
-|-|-|
-2022.06 ~ 2022.08 | 이큐브랩(Ecube Labs)
+
+| 기간              | 내용                 |
+| ----------------- | -------------------- |
+| 2022.09 ~ 재직중  | 코니스트(Conist)     |
+| 2022.06 ~ 2022.08 | 이큐브랩(Ecube Labs) |
 
 ## Projects
 
@@ -47,13 +53,11 @@ NodeJS, ExpressJS 중심으로 Rest API 개발 가능합니다.  <br/>
 
 2022.03 - 2022.04 (4주)
 
-*운동인을 위한 운동 기록 공유 기록 커뮤니티 사이트*
+_운동인을 위한 운동 기록 공유 기록 커뮤니티 사이트_
 
-**[Stack]:  TypeScript, Node.js, Express, Mysql, TypeORM, React, Styled-Component**
+**[Stack]: TypeScript, Node.js, Express, Mysql, TypeORM, React, Styled-Component**
 
-[배포](https://www.muscleformula.xyz/) / [GitHub](https://github.com/codestates/MuscleFormula) / [회고](https://olt13mm.tistory.com/1183) 
-
-
+[배포](https://www.muscleformula.xyz/) / [GitHub](https://github.com/codestates/MuscleFormula) / [회고](https://olt13mm.tistory.com/1183)
 
 ![image](https://user-images.githubusercontent.com/90957389/167373653-bf45859f-f793-49ad-bf79-bb4da5f80680.png)
 
@@ -63,7 +67,6 @@ NodeJS, ExpressJS 중심으로 Rest API 개발 가능합니다.  <br/>
 
 음악을 좋아하는 사람들을 위한 음악 공유 커뮤니티 사이트
 
-[배포](https://bit.ly/37aNZ7I) / [GitHub](https://github.com/codestates/Music-Flower) / [회고](https://olt13mm.tistory.com/1041) 
+[배포](https://bit.ly/37aNZ7I) / [GitHub](https://github.com/codestates/Music-Flower) / [회고](https://olt13mm.tistory.com/1041)
 
 <br/>
-
