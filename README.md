@@ -31,9 +31,9 @@
 ## About Me
 
 개발을 즐기며 무엇이 더 좋을지, 또는 효율적인지를 생각하는 것을 좋아합니다.  
+NodeJS, ExpressJS 중심으로 RESTful API 개발에 능숙합니다.  
 Next.js를 기반으로 웹 개발에 능숙합니다.  
 React기반의 유저 친화적인 Client개발이 가능합니다.  
-NodeJS, ExpressJS 중심으로 RESTful API 개발 가능합니다.  
 Python을 사용하여 데이터 처리 및 업무 자동화가 가능합니다.  
 
 <br/>
@@ -42,31 +42,7 @@ Python을 사용하여 데이터 처리 및 업무 자동화가 가능합니다.
 
 | 기간              | 내용                 |
 | ----------------- | -------------------- |
-| 2022.09 ~ 재직중  | 코니스트(Conist)     |
+| 2024.11 ~ 재직중  | 아미쿠스렉스 |
+| 2022.09 ~ 2024.11  | 코니스트(Conist)|
 | 2022.06 ~ 2022.08 | 이큐브랩(Ecube Labs) |
 
-## Projects
-
-![image](https://user-images.githubusercontent.com/90957389/167373175-d5302c66-7b7c-41fa-95ab-627e77d7d8d5.png)
-
-### 근의공식(MuscleFormula)
-
-2022.03 - 2022.04 (4주)
-
-_운동인을 위한 운동 기록 공유 기록 커뮤니티 사이트_
-
-**[Stack]: TypeScript, Node.js, Express, Mysql, TypeORM, React, Styled-Component**
-
-[배포](https://www.muscleformula.xyz/) / [GitHub](https://github.com/codestates/MuscleFormula) / [회고](https://olt13mm.tistory.com/1183)
-
-![image](https://user-images.githubusercontent.com/90957389/167373653-bf45859f-f793-49ad-bf79-bb4da5f80680.png)
-
-### 뮤직플라워(Music-Flower)
-
-2022.02 - 2022.03 (2주)
-
-음악을 좋아하는 사람들을 위한 음악 공유 커뮤니티 사이트
-
-[배포](https://bit.ly/37aNZ7I) / [GitHub](https://github.com/codestates/Music-Flower) / [회고](https://olt13mm.tistory.com/1041)
-
-<br/>
