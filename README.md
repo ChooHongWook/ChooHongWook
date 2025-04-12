@@ -5,7 +5,7 @@
 | 정보    | 내용                                                                                                                                      |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | E-mail. | **olt13mm@gmail.com**                                                                                                                     |
-| Blog.   | [**https://olt13mm.tistory.com/**](https://olt13mm.tistory.com/)<br/>[**https://blog.naver.com/olt13mm**](https://blog.naver.com/olt13mm) |
+| Blog.   | [**https://olt13mm.tistory.com/**](https://olt13mm.tistory.com/)|
 
 <br/>
 
