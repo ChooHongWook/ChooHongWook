@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/TypeORM-4479A3?style=for-the-badge&logo=TypeORM&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
@@ -45,5 +44,6 @@ Python을 사용하여 데이터 수집 및 데이터 처리, 업무 자동화�
 | 2024.11 ~ 재직중  | 아미쿠스렉스 |
 | 2022.09 ~ 2024.11  | 코니스트(Conist)|
 | 2022.06 ~ 2022.08 | 이큐브랩(Ecube Labs) |
+
 
 
